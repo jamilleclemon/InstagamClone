@@ -1,15 +1,15 @@
 # InstagamClone
-# Project 3 - *InstagramClone*
+# Project 3 - Jamilles *InstagramClone*
 
 **Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **10** hours spent in total
+Time spent: **96** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [X] User can sign up to create a new account using Parse authentication.
+- [] User can sign up to create a new account using Parse authentication.
 - [X] User can log in and log out of his or her account.
 - [X] The current signed in user is persisted across app restarts.
 - [X] User can take a photo, add a caption, and post it to "Instagram".
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/tamiab20/InstagamClone/blob/master/instawalkthroughGIF.gif' title='instaWalkthrough' width='' alt='Video Walkthrough' />
+<img src='instragram.gif' title='instaWalkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
